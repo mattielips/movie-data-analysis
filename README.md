@@ -100,16 +100,7 @@ For additional info, contact us here: [ Fennec C. Nightingale,](mailto:fenneccha
     ├── FlatIron_CreateDirectorWriterPerMovie.ipynb
     ├── CreatingVisualsImpactOfAplayers.ipynb
     ├── CreatingMasterMovieCatalog_DF.ipynb
-    ├── CreatingMasterFinanceTable.ipynb
-    └── Webscraping_PDFs
-        ├── CreatingMasterFinanceTable - Jupyter Notebook.pdf
-        ├── CreatingMasterMovieCatalog_DF - Jupyter Notebook.pdf
-        ├── CreatingVisualsImpactOfAplayers - Jupyter Notebook.pdf
-        ├── Get_Bankability_Data - Jupyter Notebook.pdf
-        ├── Get_Known_For_MoviesData - Jupyter Notebook.pdf
-        ├── Get_MetaData_FromFinanceTables - Jupyter Notebook.pdf
-        ├── Preping_StarPlayer_Dfs - Jupyter Notebook.pdf
-        └── ScrapingIMDB - Jupyter Notebook.pdf
+    └── CreatingMasterFinanceTable.ipynb
 └── zippedData
     ├── bom.movie_gross.csv.gz
     ├── df_Financials_SummaryAndDetail_Imdb_Dom.xlsx
