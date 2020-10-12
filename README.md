@@ -1,5 +1,4 @@
-![](https://bechdeltest.com/generated/tests.png)
-![Windows Background](/images/Windows_background.png)
+![Film_Crew](/images/Film_Set.png)
 
 # Analysis of How to Make Microsoft a Successful Film Studio 
 
@@ -11,8 +10,6 @@ This project analyzes the best route for Microsoft to break into the film indust
 
 
 ## Business Problem
-
-![Film_Crew](/images/Film_Set.png)
 
 Messing up your introductory film could not only cost you millions, but your reputation. Microsoft will get many of the tools necessary to produce a successful film from our analysis & using them will give Microsoft an edge into the film scene. 
 
