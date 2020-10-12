@@ -76,7 +76,7 @@ For additional info, contact us here: [ Fennec C. Nightingale,](mailto:fenneccha
 ├── Critics_Analysis.ipynb
 ├── debug.log
 ├── images
-│   ├── Windows_Background.png
+    ├── Windows_Background.png
     ├── ProfitsByPlayers.png
     ├── Film_Set.png
     ├── Movie_Genre.png
@@ -90,7 +90,7 @@ For additional info, contact us here: [ Fennec C. Nightingale,](mailto:fenneccha
 ├── ProductionStudios_Analysis.ipynb
 ├── README.md
 ├── Webscraping
-│   ├── ScrapingIMDB.ipynb
+    ├── ScrapingIMDB.ipynb
     ├── Preping_StarPlayer_Dfs.ipynb
     ├── Preping_StarPlayer_Dfs_10_10.ipynb
     ├── GettingAboveAverageMovies.ipynb
@@ -101,7 +101,7 @@ For additional info, contact us here: [ Fennec C. Nightingale,](mailto:fenneccha
     ├── CreatingVisualsImpactOfAplayers.ipynb
     ├── CreatingMasterMovieCatalog_DF.ipynb
     ├── CreatingMasterFinanceTable.ipynb
-    ├── Webscraping_PDFs
+    └── Webscraping_PDFs
         ├── CreatingMasterFinanceTable - Jupyter Notebook.pdf
         ├── CreatingMasterMovieCatalog_DF - Jupyter Notebook.pdf
         ├── CreatingVisualsImpactOfAplayers - Jupyter Notebook.pdf
@@ -110,7 +110,7 @@ For additional info, contact us here: [ Fennec C. Nightingale,](mailto:fenneccha
         ├── Get_MetaData_FromFinanceTables - Jupyter Notebook.pdf
         ├── Preping_StarPlayer_Dfs - Jupyter Notebook.pdf
         └── ScrapingIMDB - Jupyter Notebook.pdf
-├── zippedData
+└── zippedData
     ├── bom.movie_gross.csv.gz
     ├── df_Financials_SummaryAndDetail_Imdb_Dom.xlsx
     ├── df_Generes_With_tconst.xlsx
