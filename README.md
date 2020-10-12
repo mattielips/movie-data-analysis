@@ -64,22 +64,67 @@ Further analyses could yield additional insights to substantiate future profit i
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebooks](folder) or review our [presentation](insert pres pdf here).
+See the full analysis in the [Jupyter Notebooks](folder) or review our <a href="https://github.com/mattielips/movie-data-analysis/blob/master/Presentation.pdf">Presentation</a>.
 
-For additional info, contact us here: [[Fennec C. Nightingale,](mailto:fenneccharles@gmail.com)[Matthew Lipman](mailto:matthew.lipman@wework.com) & [Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
+For additional info, contact us here: [ Fennec C. Nightingale,](mailto:fenneccharles@gmail.com)[ Matthew Lipman,](mailto:matthew.lipman@wework.com) & [ Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
 
 
 ## Repository Structure
 
 ```
-├── code
-│   ├── notebooks??
-│   ├── notebooks??
-│   ├── notebooks.??
-│   └── notebooks.??
-├── other stuff?
+├── CastandCrew_Analysis.ipynb
+├── Critics_Analysis.ipynb
+├── debug.log
 ├── images
-├── __init__.py
+    ├── Windows_Background.png
+    ├── ProfitsByPlayers.png
+    ├── Film_Set.png
+    ├── Movie_Genre.png
+    ├── Critics_Popularity.png
+    ├── Critics_ROI.png
+    ├── BoxPlot-Average$.pdf
+    ├── BoxPlot-Average$.png
+    ├── BoxPlot-#OfMovies.png
+    └── A_Players.pngnotebooks
+├── Presentation.pdf
+├── ProductionStudios_Analysis.ipynb
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Webscraping
+    ├── ScrapingIMDB.ipynb
+    ├── Preping_StarPlayer_Dfs.ipynb
+    ├── Preping_StarPlayer_Dfs_10_10.ipynb
+    ├── GettingAboveAverageMovies.ipynb
+    ├── Get_MetaData_FromFinanceTables.ipynb
+    ├── Get_Known_For_MoviesData.ipynb
+    ├── Get_Bankability_Data.ipynb
+    ├── FlatIron_CreateDirectorWriterPerMovie.ipynb
+    ├── CreatingVisualsImpactOfAplayers.ipynb
+    ├── CreatingMasterMovieCatalog_DF.ipynb
+    └── CreatingMasterFinanceTable.ipynb
+└── zippedData
+    ├── bom.movie_gross.csv.gz
+    ├── df_Financials_SummaryAndDetail_Imdb_Dom.xlsx
+    ├── df_Generes_With_tconst.xlsx
+    ├── df_IMDB_Akas_english.xlsx
+    ├── df_IMDB_MovieCatalog.xlsx
+    ├── df_MasterFinancials_MetaData.xlsx
+    ├── df_MasterFinancials.xlsx
+    ├── df_Movie_Financials.xlsx
+    ├── df_StarActors_KnownForWithTconst.xlsx
+    ├── df_StarActors_NoDups.xlsx
+    ├── df_StarActors_With_nconst_tconst.xlsx
+    ├── df_StarActors_With_nconst.xlsx
+    ├── df_starsplayers_WithContribution.xlsx
+    ├── df_Studio_x_ref_For_import.xlsx
+    ├── imdb.name.basics.csv.gz
+    ├── imdb.title.akas.csv.gz
+    ├── imdb.title.basics.csv.gz
+    ├── imdb.title.crew.csv.gz
+    ├── imdb.title.principals.csv.gz
+    ├── imdb.title.ratings.csv.gz
+    ├── InflationAdjuster.xlsx
+    ├── rt.movie_info.tsv.gz
+    ├── rt.reviews.tsv.gz
+    ├── tmdb.movies.csv.gz
+    ├── tn.movie_budgets.csv.gz
+    └── Top_10_By_Genre_Top_Players_new.xlsx
