@@ -33,7 +33,7 @@ created keys.
 
 The most profitable genres are Adventure, Sci-Fi, and Animation.
 
-![Movie_Genres](/images/stay_lengths_by_type.png)
+![Movie_Genres](/images/Movie_Genre.png)
 
 
 The most profitable Action and Adventure movies contain between three and seven  “A Players,” thus demonstrating the strong correlation between “A Player” presence, and profitability. Many of the most profitable films in the other genres have no more than two “A Players” and therefore, do not require these figures to make a profitable film.
