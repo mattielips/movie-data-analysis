@@ -90,17 +90,13 @@ For additional info, contact us here: [ Fennec C. Nightingale,](mailto:fenneccha
 ├── ProductionStudios_Analysis.ipynb
 ├── README.md
 ├── Webscraping
-    ├── ScrapingIMDB.ipynb
-    ├── Preping_StarPlayer_Dfs.ipynb
-    ├── Preping_StarPlayer_Dfs_10_10.ipynb
-    ├── GettingAboveAverageMovies.ipynb
-    ├── Get_MetaData_FromFinanceTables.ipynb
-    ├── Get_Known_For_MoviesData.ipynb
-    ├── Get_Bankability_Data.ipynb
-    ├── FlatIron_CreateDirectorWriterPerMovie.ipynb
-    ├── CreatingVisualsImpactOfAplayers.ipynb
+    ├── CreatingMasterFinanceTable.ipynb
     ├── CreatingMasterMovieCatalog_DF.ipynb
-    └── CreatingMasterFinanceTable.ipynb
+    ├── Get_Known_For_MoviesData.ipynb
+    ├── Get_MetaData_FromFinanceTables.ipynb
+    ├── Preping_StarPlayer_Dfs_10_10.ipynb
+    ├── Preping_StarPlayer_Dfs.ipynb
+    └── ScrapingIMDB.ipynb
 └── zippedData
     ├── bom.movie_gross.csv.gz
     ├── df_Financials_SummaryAndDetail_Imdb_Dom.xlsx
